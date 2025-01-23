@@ -32,6 +32,7 @@ I'm a passionate **Computer Programmer and Analyst** specializing in:
 | **[Interactive Tableau Dashboard](https://public.tableau.com/views/ModelingU_S_SuicideRateRisk1/Main?:language=en-US&:display_count=n&:origin=viz_share_link)** | Visualizing U.S. suicide risk trends post-COVID-19. | Tableau |
 | **[Computer Vision Projects](https://github.com/MSTAM-MDC/opencv)** | Facial recognition, motion tracking, and more. | OpenCV, Python |
 | **[Personal Resume Site](https://mstam-mdc.github.io/)** | Interactive resume showcasing skills and achievements. | React, GitHub Pages |
+| **[ClothingSpree](https://github.com/MSTAM-MDC/ClothingSpree)** | Android e-commerce app for browsing and purchasing clothing with a user-friendly interface. | Java, Android SDK, Gradle |
 
 ---
 

@@ -36,6 +36,11 @@ I'm a passionate **Computer Programmer and Analyst** specializing in:
 ---
 
 ### 🌱 Currently Learning
+- Pursuing a **Bachelor's in Applied Artificial Intelligence**, developing skills in designing innovative and scalable AI solutions.
+- Mastering **Data Structures and Algorithms** to develop efficient, high-performance systems.
+- Advancing in **Natural Language Processing (NLP)** to build intelligent, language-based AI applications.
+- Exploring **Computational Methods and Applications for AI** to solve complex, real-world challenges with advanced techniques.
+- Building expertise in **Cybersecurity** through CodePath Cybersecurity 102, focusing on system security, threat analysis, and ethical hacking.
 - **Machine Learning Operations (MLOps)** to bridge AI development and deployment.
 - **Serverless Computing** for efficient backend solutions.
 

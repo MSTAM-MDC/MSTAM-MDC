@@ -33,6 +33,7 @@ I'm a passionate **Computer Programmer and Analyst** specializing in:
 | **[Computer Vision Projects](https://github.com/MSTAM-MDC/opencv)** | Facial recognition, motion tracking, and more. | OpenCV, Python |
 | **[Personal Resume Site](https://mstam-mdc.github.io/)** | Interactive resume showcasing skills and achievements. | React, GitHub Pages |
 | **[ClothingSpree](https://github.com/MSTAM-MDC/ClothingSpree)** | Android e-commerce app for browsing and purchasing clothing with a user-friendly interface. | Java, Android SDK, Gradle |
+| **[Cybersecurity Quiz App](https://github.com/MSTAM-MDC/cybersecurity-quiz-app)** | An interactive quiz to showcase UI design, database integration, and scalable Java development. | Java, JavaFX, SQLite, CSS |
 
 ---
 
